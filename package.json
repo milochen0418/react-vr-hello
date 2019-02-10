@@ -31,8 +31,6 @@
   "jest": {
     "preset": "react-vr"
   },
-
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/milochen0418/react-vr-hello.git"
